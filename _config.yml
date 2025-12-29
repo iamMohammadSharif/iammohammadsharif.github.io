@@ -1,0 +1,33 @@
+# Resume configs:
+
+full_name: Mohammad Sharif
+title: Mohammad Sharif
+description: "Mohammad Sharif CV"
+
+pdf: true
+pdf_url: https://raw.githubusercontent.com/iamMohammadSharif/resume/main/Mohammad-Sharif.pdf
+
+github: true
+github_url: https://github.com/iamMohammadSharif/
+
+linkedin: true
+linkedin_url: https://www.linkedin.com/in/mohammadsharif-665a58225/
+
+gmail: true
+gmail_url: mamadsh404@gmail.com
+
+phone: false
+phone_number: ""
+
+footer: false
+site_footer_text: ""
+
+# web pdf creator configs:
+URL: https://iamMohammadSharif.github.io/
+
+# template configs:
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+lang: "en-US"
