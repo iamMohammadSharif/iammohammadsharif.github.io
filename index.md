@@ -45,12 +45,12 @@ hardware systems. Passionate about R&D projects and exploring emerging technolog
 ---
 
 ### Technical Skills:
-- [x]   Languages: **Python**
-- [x]   Web Development**: **FastAPI**
-- [x]   Database & ORM**: **PostgreSQL**, **Redis/Redis-stack**, **ORM (SQLAlchemy)**
-- [x]  Systems: **Linux** administration, **Docker**
-- [x]  Version Control: **Git**, **CI/CD** pipelines
-- [x]  Asynchronous & Real-time**: **Celery**, **aioclock (Async Scheduler)**,
+- [x] &nbsp;Languages: **Python**
+- [x] &nbsp;Web Development: **FastAPI**
+- [x] &nbsp;Database & ORM: **PostgreSQL**, **Redis/Redis-stack**, **ORM (SQLAlchemy)**
+- [x] &nbsp;Systems: **Linux** administration, **Docker**
+- [x] &nbsp;Version Control: **Git**, **CI/CD** pipelines
+- [x] &nbsp;Asynchronous & Real-time: **Celery**, **aioclock (Async Scheduler)**,
 **WebSocket (Real-time Communication)**
 
 ---
